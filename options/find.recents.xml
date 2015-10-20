@@ -1,0 +1,61 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>INTERNAL</find>
+      <find>Resolver</find>
+      <find>HttpServletResponse</find>
+      <find>mail.subject.reset.password</find>
+      <find>@Query</find>
+      <find>order</find>
+      <find>asc</find>
+      <find>getSession</find>
+      <find>Constants</find>
+      <find>RequestMethod.POST</find>
+      <find>/users/</find>
+      <find>mercyProfile</find>
+      <find>passwordChanged.vm</find>
+      <find>passwordChanged</find>
+      <find>getResetPasswordChangedMailContent</find>
+      <find>passwordEnc</find>
+      <find>OMG_BASE_URL</find>
+      <find>alive</find>
+      <find>PATIENT_MYC</find>
+      <find>MPD_USER</find>
+      <find>patientMyChartId</find>
+      <find>MYPT</find>
+      <find>mypt</find>
+      <find>mts_user</find>
+      <find>locdir</find>
+      <find>locationDirectoryDataSource</find>
+      <find>locationDirectoryTransactionManager</find>
+      <find>locationDirectoryEntityManagerFactory</find>
+      <find>locationDirectoryTxManager</find>
+      <find>MPLD_</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/n</replace>
+      <replace>\r\n</replace>
+      <replace>\</replace>
+      <replace>9.1.0</replace>
+      <replace>6.0.10-SNAPSHOT</replace>
+      <replace>public form</replace>
+      <replace>public final</replace>
+      <replace>private static final</replace>
+      <replace>&lt;xsd:</replace>
+      <replace>xsd:</replace>
+      <replace>xsd=</replace>
+      <replace>9.2.0-SNAPSHOT</replace>
+      <replace />
+      <replace>/#/reset_password?token=</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/dev/projects/LocationDirectory</dir>
+      <dir>$USER_HOME$/dev/projects/ProviderDirectory/ProviderDirectory-batch/src/test/java</dir>
+      <dir>$USER_HOME$/dev/projects/svn/smxref/dist</dir>
+      <dir>$USER_HOME$/dev/projects/svn/smxref</dir>
+      <dir>$USER_HOME$/dev/projects/ProviderDirectory</dir>
+      <dir>$USER_HOME$/dev/projects/mymercywebapi</dir>
+    </dirStrings>
+  </component>
+</application>

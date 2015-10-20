@@ -1,0 +1,160 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="svn working copy format">
+      <project id="smxref" values="1.7" collectionTime="1439389176149" />
+      <project id="TecsysInterfacesBatch" values="1.7" collectionTime="1438007574359" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="smxref" values="DEFAULT" collectionTime="1439389176152" />
+      <project id="TecsysInterfacesBatch" values="DEFAULT" collectionTime="1438007574361" />
+      <project id="mymercyservice" values="DEFAULT" collectionTime="1444668275753" />
+      <project id="mymercyserver" values="DEFAULT" collectionTime="1444748850861" />
+      <project id="jhipster" values="DEFAULT" collectionTime="1443967430216" />
+      <project id="ProviderDirectory" values="DEFAULT" collectionTime="1444937815416" />
+      <project id="DMA" values="DEFAULT" collectionTime="1439909012962" />
+      <project id="mymercy" values="DEFAULT" collectionTime="1439914082700" />
+      <project id="OneMercyGateway" values="DEFAULT" collectionTime="1443473938879" />
+      <project id="mymercywebapi" values="DEFAULT" collectionTime="1445288356089" />
+      <project id="LocationDirectory" values="DEFAULT" collectionTime="1444937808537" />
+    </group>
+    <group name="module type">
+      <project id="smxref" values="JAVA_MODULE" collectionTime="1439389175958" />
+      <project id="TecsysInterfacesBatch" values="JAVA_MODULE" collectionTime="1438007574249" />
+      <project id="mymercyservice" values="JAVA_MODULE" collectionTime="1444668275275" />
+      <project id="mymercyserver" values="JAVA_MODULE" collectionTime="1444748850416" />
+      <project id="jhipster" values="JAVA_MODULE" collectionTime="1443967429901" />
+      <project id="ProviderDirectory" values="JAVA_MODULE" collectionTime="1444937815357" />
+      <project id="DMA" values="JAVA_MODULE" collectionTime="1439909011631" />
+      <project id="mymercy" values="JAVA_MODULE" collectionTime="1439914082663" />
+      <project id="OneMercyGateway" values="JAVA_MODULE" collectionTime="1443473938825" />
+      <project id="mymercywebapi" values="JAVA_MODULE" collectionTime="1445288355610" />
+      <project id="LocationDirectory" values="JAVA_MODULE" collectionTime="1444937808474" />
+    </group>
+    <group name="vcs">
+      <project id="smxref" values="svn" collectionTime="1439389175958" />
+      <project id="TecsysInterfacesBatch" values="svn" collectionTime="1438007574248" />
+      <project id="mymercyservice" values="Git" collectionTime="1444668275274" />
+      <project id="LocationDirectory" values="Git" collectionTime="1444937808474" />
+      <project id="ProviderDirectory" values="Git" collectionTime="1444937815357" />
+      <project id="DMA" values="Git" collectionTime="1439909011630" />
+      <project id="OneMercyGateway" values="Git" collectionTime="1443473938825" />
+      <project id="mymercywebapi" values="Git" collectionTime="1445288355609" />
+      <project id="mymercyserver" values="Git" collectionTime="1444748850416" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="mymercywebapi" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1445288355611" />
+      <project id="DMA" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1439909011631" />
+      <project id="LocationDirectory" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1444937808474" />
+      <project id="ProviderDirectory" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1444937815357" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="mymercywebapi" values="JUnit" collectionTime="1445288355611" />
+      <project id="LocationDirectory" values="JUnit" collectionTime="1444937808474" />
+      <project id="ProviderDirectory" values="JUnit" collectionTime="1444937815357" />
+      <project id="mymercyservice" values="JUnit" collectionTime="1444668275275" />
+    </group>
+    <group name="file-type">
+      <project id="smxref" values="CSS,ARCHIVE,Manifest,PLAIN_TEXT,JAVA,JavaScript,Native,JSP,HTML,IDEA_MODULE,XML,CLASS,SQL,Images,C++,PATCH,Properties,YAML,Cucumber,Eclipse,UNKNOWN" collectionTime="1439389176129" />
+      <project id="TecsysInterfacesBatch" values="Properties,Manifest,PLAIN_TEXT,XML,JAVA,Eclipse,UNKNOWN,PATCH,Cucumber,IDEA_MODULE,SQL,Native" collectionTime="1438007574350" />
+      <project id="mymercyservice" values="PLAIN_TEXT,CLASS,IDEA_MODULE,SQL,VTL,UNKNOWN,Native,XML,JAVA,Properties,Git file" collectionTime="1444668275475" />
+      <project id="mymercyserver" values="JavaScript,Properties,Eclipse,VTL,XML,JSON,Git file,UNKNOWN,PLAIN_TEXT,JAVA,IDEA_MODULE,JSP,SQL" collectionTime="1444748850555" />
+      <project id="jhipster" values="Git file,Groovy,JSON,DTD,ARCHIVE,CoffeeScript,IDEA_MODULE,SCSS,Properties,SWF,ActionScript,JSHint file,YAML,ESLint,Npm file,C++,Less,CSS,JSCS,XML,JAVA,PLAIN_TEXT,Perl,UNKNOWN,Native,HTML,Sass,SourceMap,JSHint,Images,PATCH,Ignore file,TypeScript,IDL,JavaScript" collectionTime="1443967430009" />
+      <project id="ProviderDirectory" values="JavaScript,VTL,CSS,JAVA,Native,Git file,XML,ARCHIVE,IDEA_MODULE,Images,Cucumber,SQL,PLAIN_TEXT,JSPX,Properties,Manifest,UNKNOWN,FTL,C#,JSP" collectionTime="1444937815400" />
+      <project id="DMA" values="Git file,JSP,XML,VTL,HTML,JAVA,JavaScript,PLAIN_TEXT,SQL,Properties,Images,UNKNOWN,Eclipse,FTL,CSS,IDEA_MODULE" collectionTime="1439909012508" />
+      <project id="mymercy" values="C#,Ignore file,JavaScript,IDL,JSHint file,JSCS,IDEA_MODULE,Git file,Cucumber,SQL,YAML,CoffeeScript,Manifest,C++,ESLint,JSHint,CLASS,XML,Images,Native,Properties,CSS,TypeScript,PLAIN_TEXT,UNKNOWN,VTL,JSON,JAVA,SourceMap,JSP,DTD,HTML,PATCH,Less,Npm file,ARCHIVE" collectionTime="1439914082695" />
+      <project id="OneMercyGateway" values="PLAIN_TEXT,XML,Git file,VTL,Properties,JAVA,Cucumber,JSON,JSP,IDEA_MODULE,UNKNOWN,C#,SQL,Native" collectionTime="1443473938867" />
+      <project id="mymercywebapi" values="XML,Manifest,JAVA,Properties,Git file,PLAIN_TEXT,IDEA_MODULE,SQL,UNKNOWN,JSP,VTL,Native,Groovy,CLASS" collectionTime="1445288355743" />
+      <project id="LocationDirectory" values="PLAIN_TEXT,JSP,Manifest,Images,FTL,IDEA_MODULE,JSPX,C#,JAVA,SQL,CSS,Eclipse,UNKNOWN,XML,VTL,JavaScript,Properties,Git file,Cucumber" collectionTime="1444937808531" />
+    </group>
+    <group name="spring">
+      <project id="smxref" values="fileset_configFiles5,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,fileset_xmlContext,xmlNS_www.springframework.org/schema/aop" collectionTime="1439389176154" />
+      <project id="mymercyservice" values="fileset_annotationContext,fileset_configFiles5" collectionTime="1444668275754" />
+      <project id="LocationDirectory" values="xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/p,fileset_xmlContext,xmlNS_www.springframework.org/schema/data/jpa,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/jee,fileset_xmlContext,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/security,fileset_xmlContext,fileset_configFiles10,fileset_xmlContext,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/batch,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/oxm,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/batch,fileset_configFiles5,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/security" collectionTime="1444937808538" />
+      <project id="ProviderDirectory" values="fileset_configFiles5,xmlNS_www.springframework.org/schema/data/jpa,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,fileset_xmlContext,fileset_configFiles10,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/batch,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/batch,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/integration/file,xmlNS_www.springframework.org/schema/batch,xmlNS_www.springframework.org/schema/data/repository,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/integration,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/p,fileset_xmlContext,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/security,fileset_configFilesGreater10,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/integration,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/web-services,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/oxm,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/context,fileset_xmlContext,xmlNS_www.springframework.org/schema/batch,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/integration/file,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/web-services,xmlNS_www.springframework.org/schema/integration/jmx,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/web-services,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/data/repository,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/web-services,xmlNS_www.springframework.org/schema/data/jpa,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/integration,xmlNS_www.springframework.org/schema/tx" collectionTime="1444937815418" />
+      <project id="DMA" values="xmlNS_www.springframework.org/schema/p,fileset_xmlContext,fileset_configFiles5,xmlNS_www.springframework.org/schema/p,fileset_configFiles10,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/batch,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/web-services,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,fileset_configFiles5,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/util,fileset_configFiles5,xmlNS_www.springframework.org/schema/integration/jmx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/oxm,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/batch,fileset_xmlContext,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,fileset_xmlContext,xmlNS_www.springframework.org/schema/batch,xmlNS_www.springframework.org/schema/integration,xmlNS_www.springframework.org/schema/web-services,xmlNS_www.springframework.org/schema/context,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/integration/file,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/data/repository,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/data/jpa,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/web-services,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/integration,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/context" collectionTime="1439909013012" />
+      <project id="OneMercyGateway" values="xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/data/jpa,xmlNS_www.springframework.org/schema/data/repository,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/p,fileset_xmlContext,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/context" collectionTime="1443473938879" />
+      <project id="mymercywebapi" values="xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,fileset_xmlContext" collectionTime="1445288356093" />
+    </group>
+    <group name="compiler">
+      <project id="mymercywebapi" values="auto_make" collectionTime="1445288355811" />
+      <project id="LocationDirectory" values="auto_make" collectionTime="1444937808534" />
+      <project id="ProviderDirectory" values="auto_make" collectionTime="1444937815414" />
+      <project id="mymercyservice" values="auto_make" collectionTime="1444668275493" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="smxref" values="Project,Project" collectionTime="1439389176152" />
+      <project id="TecsysInterfacesBatch" values="Project,Project" collectionTime="1438007574361" />
+      <project id="mymercyservice" values="Project,Project" collectionTime="1444668275753" />
+      <project id="mymercyserver" values="Project,Project" collectionTime="1444748850861" />
+      <project id="jhipster" values="Project,Project" collectionTime="1443967430216" />
+      <project id="ProviderDirectory" values="Project,Project" collectionTime="1444937815416" />
+      <project id="DMA" values="Project,Project" collectionTime="1439909012962" />
+      <project id="mymercy" values="Project,Project" collectionTime="1439914082700" />
+      <project id="OneMercyGateway" values="Project,Project" collectionTime="1443473938879" />
+      <project id="mymercywebapi" values="Project,Project" collectionTime="1445288356089" />
+      <project id="LocationDirectory" values="Project,Project" collectionTime="1444937808537" />
+    </group>
+    <group name="libraries">
+      <project id="smxref" values="TransactionJavaee,JMS,spring-mvc,spring" collectionTime="1439389176130" />
+      <project id="mymercyservice" values="BeanValidation,TransactionJavaee,spring-data-jpa,spring,spring-security,hibernate,CDI,spring-mvc" collectionTime="1444668275493" />
+      <project id="LocationDirectory" values="spring-integration,spring,tiles,hibernate,spring-batch,spring-mvc,TransactionJavaee,spring-security" collectionTime="1444937808534" />
+      <project id="ProviderDirectory" values="hibernate,spring-integration,spring-batch,spring-data-jpa,spring-mvc,spring,spring-security,tiles,TransactionJavaee,BeanValidation" collectionTime="1444937815414" />
+      <project id="DMA" values="TransactionJavaee,hibernate,spring-batch,spring-integration,BeanValidation,spring-mvc,spring,spring-data-jpa,spring-security,tiles" collectionTime="1439909012599" />
+      <project id="OneMercyGateway" values="spring-data-jpa,TransactionJavaee,spring-mvc,BeanValidation,hibernate,spring" collectionTime="1443473938874" />
+      <project id="mymercywebapi" values="BeanValidation,groovy,spring-security,spring-data-jpa,CDI,hibernate,TransactionJavaee,spring-mvc,spring" collectionTime="1445288355811" />
+      <project id="mymercyserver" values="hibernate,spring-mvc,CDI,BeanValidation,spring-data-jpa,TransactionJavaee,spring,spring-security" collectionTime="1444748850604" />
+    </group>
+    <group name="frameworks">
+      <project id="smxref" values="web,Spring" collectionTime="1439389175958" />
+      <project id="mymercyservice" values="Spring" collectionTime="1444668275275" />
+      <project id="mymercyserver" values="web" collectionTime="1444748850416" />
+      <project id="jhipster" values="web" collectionTime="1443967429901" />
+      <project id="ProviderDirectory" values="web,Spring,jpa" collectionTime="1444937815357" />
+      <project id="DMA" values="Spring,web,jpa" collectionTime="1439909011630" />
+      <project id="OneMercyGateway" values="Spring,web" collectionTime="1443473938825" />
+      <project id="mymercywebapi" values="web,Spring" collectionTime="1445288355610" />
+      <project id="LocationDirectory" values="Spring,web,jpa" collectionTime="1444937808474" />
+    </group>
+    <group name="language-level">
+      <project id="smxref" values="JDK_1_6" collectionTime="1439389176148" />
+      <project id="TecsysInterfacesBatch" values="JDK_1_6,JDK_1_5" collectionTime="1438007574358" />
+      <project id="mymercyservice" values="JDK_1_7,JDK_1_6" collectionTime="1444668275503" />
+      <project id="mymercyserver" values="JDK_1_7,JDK_1_6" collectionTime="1444748850613" />
+      <project id="jhipster" values="JDK_1_8,JDK_1_6" collectionTime="1443967430017" />
+      <project id="ProviderDirectory" values="JDK_1_6" collectionTime="1444937815415" />
+      <project id="DMA" values="JDK_1_6" collectionTime="1439909012615" />
+      <project id="mymercy" values="JDK_1_6" collectionTime="1439914082696" />
+      <project id="OneMercyGateway" values="JDK_1_7,JDK_1_6" collectionTime="1443473938875" />
+      <project id="mymercywebapi" values="JDK_1_7,JDK_1_6" collectionTime="1445288355830" />
+      <project id="LocationDirectory" values="JDK_1_6" collectionTime="1444937808535" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="52" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="249" />
+      <entry feature="execute.JUnit.Coverage" count="2" />
+      <entry feature="execute.JUnit.Debug" count="30" />
+      <entry feature="execute.JUnit.Run" count="198" />
+      <entry feature="ide.settings.Application&#10;Servers" count="2" />
+      <entry feature="ide.settings.Code_Style" count="4" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Compiler" count="6" />
+      <entry feature="ide.settings.Font" count="3" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Java" count="1" />
+      <entry feature="ide.settings.Java_Compiler" count="2" />
+      <entry feature="ide.settings.Keymap" count="7" />
+      <entry feature="ide.settings.Project_Structure" count="61" />
+      <entry feature="ide.settings.Tomcat_Server" count="1" />
+      <entry feature="ideaapp.started" count="116" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="160" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="64" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure.Import" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="6" />
+    </counts>
+  </component>
+</application>

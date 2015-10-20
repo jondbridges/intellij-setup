@@ -1,0 +1,65 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/dev/projects/mymercywebapi/src/main/webapp/WEB-INF/web.xml" timestamp="1445261281652">
+        <mark key="]" line="39" column="26" />
+        <mark key="^" line="39" column="26" />
+        <mark key="." line="39" column="26" />
+        <mark key="[" line="39" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercywebapi/pom.xml" timestamp="1444929918848">
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+        <mark key="[" line="15" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercywebapi/src/main/java/com/mercy/mymercy/controller/SupportController.java" timestamp="1445200345439">
+        <mark key="'" line="207" column="61" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="207" column="61" filename="$USER_HOME$/dev/projects/mymercywebapi/src/main/java/com/mercy/mymercy/controller/SupportController.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>15</text>
+      </register>
+      <register name="2" type="4">
+        <text>76</text>
+      </register>
+      <register name="1" type="4">
+        <text>15</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>15</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>vsplit</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
