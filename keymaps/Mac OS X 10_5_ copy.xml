@@ -12,6 +12,10 @@
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.NavigateForeignAction">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.PrevChange">
     <keyboard-shortcut first-keystroke="control LEFT" />
@@ -29,10 +33,19 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="shift meta CLOSE_BRACKET" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta alt B" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta O" />
     <keyboard-shortcut first-keystroke="meta P" />
     <keyboard-shortcut first-keystroke="control T" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="meta B" />
   </action>
   <action id="GotoSuperMethod" />
   <action id="GotoTest" />
