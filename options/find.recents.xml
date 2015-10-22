@@ -1,10 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>INTERNAL</find>
-      <find>Resolver</find>
-      <find>HttpServletResponse</find>
-      <find>mail.subject.reset.password</find>
       <find>@Query</find>
       <find>order</find>
       <find>asc</find>
@@ -13,7 +9,6 @@
       <find>RequestMethod.POST</find>
       <find>/users/</find>
       <find>mercyProfile</find>
-      <find>passwordChanged.vm</find>
       <find>passwordChanged</find>
       <find>getResetPasswordChangedMailContent</find>
       <find>passwordEnc</find>
@@ -31,6 +26,11 @@
       <find>locationDirectoryEntityManagerFactory</find>
       <find>locationDirectoryTxManager</find>
       <find>MPLD_</find>
+      <find>Handler</find>
+      <find>Environment</find>
+      <find>Response</find>
+      <find>passwordChanged.vm</find>
+      <find>ResponseEntity</find>
     </findStrings>
     <replaceStrings>
       <replace>/n</replace>
@@ -56,6 +56,7 @@
       <dir>$USER_HOME$/dev/projects/svn/smxref</dir>
       <dir>$USER_HOME$/dev/projects/ProviderDirectory</dir>
       <dir>$USER_HOME$/dev/projects/mymercywebapi</dir>
+      <dir>$USER_HOME$/dev/projects/mymercywebapi/src/main/resources/META-INF/config/qa</dir>
     </dirStrings>
   </component>
 </application>
